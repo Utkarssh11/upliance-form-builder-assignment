@@ -41,7 +41,6 @@ A React application to build and manage dynamic forms with validation, derived f
 - Material-UI (MUI)
 - Redux Toolkit
 - React Router
-- dayjs
 - localStorage for persistence
 
 ---
