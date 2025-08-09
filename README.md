@@ -2,7 +2,7 @@
 
 A React application to build and manage dynamic forms with validation, derived fields, and saved forms.
 
-🔗 **Live Link**: [https://upliance-form-builder-assignment.vercel.app/](https://upliance-form-builder-assignment.vercel.app/)
+ **Live Link**: [https://upliance-form-builder-assignment.vercel.app/](https://upliance-form-builder-assignment.vercel.app/)
 
 ---
 
