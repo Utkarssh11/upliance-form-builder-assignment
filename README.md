@@ -82,4 +82,15 @@ src/
 
 ---
 
+## Contact
+
+* Email: [utkarshpatidar011@gmail.com](mailto:utkarshpatidar011@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/utkarsh-patidar-800081221/](https://www.linkedin.com/in/utkarsh-patidar-800081221/)
+
+---
+
+## Thank You
+
+Thank you to the upliance.ai team for this opportunity. I enjoyed working on the assignment and look forward to the next steps.
+
 
