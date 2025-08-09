@@ -42,18 +42,7 @@ A React application to build and manage dynamic forms with validation, derived f
 - Redux Toolkit
 - React Router
 - localStorage for persistence
-
----
-
-## Installation
-
-```bash
-npm install
-npm start
-````
-
-Then go to [http://localhost:3000](http://localhost:3000)
-
+  
 ---
 
 ## Folder Structure
